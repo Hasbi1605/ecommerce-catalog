@@ -1,29 +1,11 @@
-# ecommerce-catalog
+## Screenshoot Run APP
 
-## Project setup
-```
-npm install
-```
+### Men's Clothing Example
+![Men's Clothing Example](src/assets/image/men.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Women's Clothing Example
+![Women's Clothing Example](src/assets/image/women.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Unavailable Example
+![Unavailable  Example](src/assets/image/unavailable.png)
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
