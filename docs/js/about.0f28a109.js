@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkecommerce_catalog"]=self["webpackChunkecommerce_catalog"]||[]).push([[594],{9220:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var u=function(){var e=this;e._self._c;return e._m(0)},a=[function(){var e=this,t=e._self._c;return t("div",{staticClass:"about"},[t("h1",[e._v("This is an about page")])])}],c=n(1656),s={},l=(0,c.A)(s,u,a,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.0f28a109.js.map
